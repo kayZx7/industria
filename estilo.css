@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+.caixa {
+    max-width: 1100px;
+    margin: 36px auto;
+    padding: 28px;
+    background-color:aliceblue;
+    box-sizing: border-box
+}
+
+header {
+    display: flex;
+    
+}
